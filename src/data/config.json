@@ -1,72 +1,42 @@
 {
-    "name": "Senash Thenuja",
-    "handle": "SenaThenu",
-    "bio": "I create weird stuff!",
-    "verifiedIconColor": "#36b7fd",
-    "linkLogoColor": "#30A5E4",
-    "textColor": "#e0f4ff",
-    "buildYourOwnBtnColor": "#053a6e",
-    "backgroundColor": "#041020",
+    "name": "Kameli Studio",
+    "handle": "studio.kameli",
+    "bio": "Explore our handcrafted organic soy wax candles, inspired by coffee, food, and festive celebrations. Perfect for gifting, weddings, corporate events, and special occasions. Based in Delhi, we ship pan-India and take custom bulk orders.",
+    "verifiedIconColor": "#0f0f0f",
+    "linkLogoColor": "#0f0f0f",
+    "textColor": "#f2f2f2",
+    "buildYourOwnBtnColor": "#f2f2f2",
+    "backgroundColor": "#0f0f0f",
     "links": [
         {
-            "name": "GitHub",
-            "logoName": "github",
-            "url": "https://github.com/SenaThenu"
-        },
-        {
-            "name": "Linkedin",
-            "logoName": "linkedin",
-            "url": "https://www.linkedin.com/in/senathenu/"
-        },
-        {
-            "name": "X",
-            "logoName": "social-x",
-            "url": "https://x.com/senathenu"
-        },
-        {
-            "name": "Sponsor",
-            "logoName": "heart",
-            "url": "https://github.com/sponsors/SenaThenu"
-        },
-        {
-            "name": "Medium",
-            "logoName": "medium",
-            "url": "https://medium.com/@senathenu"
-        },
-        {
-            "name": "Kaggle",
-            "logoName": "kaggle",
-            "url": "https://www.kaggle.com/senashthenuja"
-        },
-        {
-            "name": "Hashnode",
-            "logoName": "hashnode",
-            "url": "https://senathenu.hashnode.dev/"
-        },
-        {
-            "name": "Product Hunt",
-            "logoName": "product-hunt",
-            "url": "https://www.producthunt.com/@senathenu"
+            "name": "Order Your Favors Here",
+            "logoname": "web",
+            "url": "https://studio.kamelicafe.com"
         },
         {
             "name": "Instagram",
             "logoName": "ins",
-            "url": "https://www.instagram.com/senathenu/"
+            "url": "https://www.instagram.com/studio.kameli"
         },
         {
-            "name": "Reddit",
-            "logoName": "reddit",
-            "url": "https://www.reddit.com/user/SenaThenu"
+            "name": "Facebook",
+            "logoName": "facebook",
+            "url": "https://www.facebook.com/studio.kameli"
         },
         {
-            "name": "Unsplash",
-            "logoName": "unsplash",
-            "url": "https://unsplash.com/@senathenu"
+            "name": "WhatsApp",
+            "logoName": "whatsapp",
+            "url": "https://wa.me/919953558202"
         },
         {
-            "name": "Goodreads",
-            "logoName": "goodreads",
-            "url": "https://www.goodreads.com/user/show/136197280-senash"
+            "name": "Bulk Order Enquiry",
+            "logoname": "mail",
+            "url": "mailto:studio@kamelicafe.com"
+        },
+        {
+            "name": "Support Email",
+            "logoname": "mail",
+            "url": "mailto:cs.studio@kamelicafe.com"
         }
     ]
 }
