@@ -1,9 +1,9 @@
 {
-    "name": "link-orchard",
+    "name": "links",
     "private": true,
     "version": "0.0.0",
     "type": "module",
-    "homepage": "https://senathenu.github.io/link-orchard",
+    "homepage": "https://studio.kamelicafe.com/links",
     "scripts": {
         "dev": "vite",
         "build": "tsc -b && vite build",
